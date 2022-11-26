@@ -1,11 +1,11 @@
-8486a67cfaeb2db9e62f757a6ef26d7b *DESCRIPTION
+90ca556164f21dcb293d304f9a4ae13f *DESCRIPTION
 45b0e39e0c57c8938320e4d11356ba23 *LICENSE
 80545aa85075abdbad14e6554af4391d *NAMESPACE
-b5952c303d890d3c541bab8d9986d87d *R/get_giedata.R
+7ea9d652cdb1c24524ccb8feb6af5d2a *R/get_giedata.R
 57f18fc1be9d378196993360e8a7f391 *R/get_giedata2.R
 366dd232e0d4b604107a1f7de72c3e58 *R/get_gielisting.R
 d48b9b21a66db123589cb3025dae6b48 *R/globals.R
-2847cb77d43b925fa3e238e24ab2333f *R/utils.R
+2b9ddc88b3b2e79b8705175dc707bd69 *R/utils.R
 c58a68f3a8872820f23709e0c0d33873 *README.md
 fc729cb577b616e200c66be31753ebef *man/check_giedata2input.Rd
 756b67cdcad2aff77cc95c2b4381e803 *man/check_giedatainput.Rd
@@ -33,4 +33,4 @@ c6e4c80e12c87d945d47dbffed4201e9 *tests/fixtures/test1.7.yml
 113f2b4546c1dfae846a920d58022235 *tests/testthat.R
 a028911435d7253dc336929748430251 *tests/testthat/setup-giedata.R
 c1c40e69f3817a990e47ba9c2dd060b4 *tests/testthat/test-datadownloads.R
-dea704b174632b93b42021463079cc75 *tests/testthat/test-regular-errors.R
+52f5103cf5faf54dea4f133db6e93cf4 *tests/testthat/test-regular-errors.R
